@@ -1,0 +1,1 @@
+This text show in yes.txt file
